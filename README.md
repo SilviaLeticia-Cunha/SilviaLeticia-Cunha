@@ -1,3 +1,4 @@
+![Silvia leticia cunha](https://github.com/user-attachments/assets/88f2d808-ca8a-4493-aa91-53a8f5a579c5)
 # Olá, eu sou Silvia Leticia Cunha! 👋
 
 Atualmente, trabalho como Analista de Validação na Indústria Farmacêutica e estou em transição de carreira para a área de **Testes de Software (QA)**.  
